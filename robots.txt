@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pousodigital.com.br/sitemap.xml
